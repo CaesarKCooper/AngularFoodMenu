@@ -1,0 +1,137 @@
+*:focus {
+    outline: none;
+}
+
+.container {
+    margin-top: 60px
+}
+
+#header {
+    text-align: center;
+    margin-top: 50px;
+}
+
+img {
+    margin-top: 20px;
+    height: 50px;
+    width: 50px;
+}
+
+#fries {
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+#friespicture {
+    border: 1px solid rgb(189, 189, 189);
+    width: 9%;
+    
+}
+
+#friesdescription {
+    border: 1px solid rgb(189, 189, 189);
+    width: 35%
+}
+
+#friesprice {
+    border: 1px solid rgb(189, 189, 189);
+    width: 17%;
+    padding-top: 35px;
+}
+
+#friesinputbox {
+    border: 1px solid rgb(189, 189, 189);
+    width: 39%;
+    padding-top: 33px;
+}
+
+#friesinput {
+    width: 80%;
+}
+
+#burger {
+    border: 2px solid black;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+#burgerpicture {
+    border: 1px solid rgb(189, 189, 189);
+    width: 9%;
+    
+}
+
+#burgerdescription {
+    border: 1px solid rgb(189, 189, 189);
+    width: 35%
+}
+
+#burgerprice {
+    border: 1px solid rgb(189, 189, 189);
+    width: 17%;
+    padding-top: 35px;
+}
+
+#burgerinputbox {
+    border: 1px solid rgb(189, 189, 189);
+    width: 39%;
+    padding-top: 33px;
+}
+
+#burgerinput {
+    width: 80%;
+}
+
+#soda {
+    border: 2px solid black;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+#sodapicture {
+    border: 1px solid rgb(189, 189, 189);
+    width: 9%;
+    
+}
+
+#sodadescription {
+    border: 1px solid rgb(189, 189, 189);
+    width: 35%
+}
+
+#sodaprice {
+    border: 1px solid rgb(189, 189, 189);
+    width: 17%;
+    padding-top: 35px;
+}
+
+#sodainputbox {
+    border: 1px solid rgb(189, 189, 189);
+    width: 39%;
+    padding-top: 33px;
+}
+
+#sodainput {
+    width: 80%;
+}
+
+#cartquantity {
+    margin-top: 80px;
+    text-align: center;
+}
+
+#carttotal {
+    text-align: center;
+}
+
+#sodaprice p, #burgerprice p, #friesprice p {
+    color: green;
+}
+
+
+
